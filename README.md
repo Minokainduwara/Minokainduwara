@@ -27,7 +27,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Minokainduwara&" alt="Minokainduwara" /></p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Minokainduwara/Minokainduwara/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Minokainduwara/Minokainduwara/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
 ### ✍️ Random Dev Quote
