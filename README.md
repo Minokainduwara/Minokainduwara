@@ -29,6 +29,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [VS Code Shortcuts on Mac for Flutter Developers](https://medium.com/@induwaraminoka/vs-code-shortcuts-on-mac-for-flutter-developers-0f00c278d34c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
