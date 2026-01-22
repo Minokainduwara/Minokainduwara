@@ -1,29 +1,63 @@
-<div align="center">
+# Minoka Wickramasinghe
 
-# 🌟 Welcome to Minoka Wickramasinghe's Profile 🌟
+```typescript
+const profile = {
+  name: "Minoka Wickramasinghe",
+  bio: "🎓 IT Undergrad | 💡 Full Stack & Game Developer | 💻 Building apps, crafting games, and learning every day.",
+  currentWork: "I’m currently working on E-commerce project
 
-<p><em>🎓 IT Undergrad | 💡 Full Stack & Game Developer | 💻 Building apps, crafting games, and learning every day.</em></p>
-
-<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
-<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
-
-</div>
-
-<hr>
+",
+  learning: "Currently Learning Machine Learning and DevOps",
+  interests: "Machine Learning,DevOps",
+  skills: [
+    "HTML5",
+    "CSS3",
+    "React",
+    "Next.js",
+    "Tailwind",
+    "Node.js",
+    "MongoDB",
+    "Express",
+    "Django",
+    "MySQL",
+    "Spring",
+    "PostgreSQL",
+    "Docker",
+    "AWS",
+    "Azure",
+    "GitHub Actions",
+    "TensorFlow",
+    "PyTorch",
+    "Scikit-Learn",
+    "NumPy",
+    "Pandas",
+    "Flutter",
+    "React Native",
+    "JavaScript",
+    "TypeScript",
+    "Python",
+    "Java",
+    "C",
+    "C#",
+    "PHP",
+    "Go"
+  ],
+}
+```
 
 ## 🔭 I'm currently working on
 
-<div align="center"><p>I’m currently working on E-commerce project
+I’m currently working on E-commerce project
 
-</p></div>
+
 
 ## 🌱 I'm currently learning
 
-<div align="center"><p>Currently Learning Machine Learning and DevOps</p></div>
+Currently Learning Machine Learning and DevOps
 
 ## 👀 I'm interested in
 
-<div align="center"><p>Machine Learning, DevOps</p></div>
+Machine Learning, DevOps
 
 ## 👀 Visitor Count
 
@@ -37,85 +71,124 @@
 
 <!-- ⚠️ Important: Replace 'Minokainduwara' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Minokainduwara&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Minokainduwara&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🔝 Most Used Languages
 
 <!-- ⚠️ Important: Replace 'Minokainduwara' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minokainduwara&layout=compact&langs_count=10&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minokainduwara&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
 ## 🔥 Contribution Streak
 
 <!-- ⚠️ Important: Replace 'Minokainduwara' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Minokainduwara&theme=radical&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Minokainduwara&theme=dark&hide_border=false" />
 </div>
 
 ## 💻 Tech Stack
 
-<div align="center">
-
-### 🎨 Frontend
-
-<img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Tailwind-05122A?style=for-the-badge&color=ff69b4">
-
-### ⚙️ Backend
-
-<img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-Express-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-Django-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-Spring-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&color=4169e1">
-
-### 🚀 DevOps
-
-<img src="https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&color=9370db"> <img src="https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&color=9370db"> <img src="https://img.shields.io/badge/-Azure-05122A?style=for-the-badge&color=9370db"> <img src="https://img.shields.io/badge/-GitHub Actions-05122A?style=for-the-badge&color=9370db">
-
-### 🧠 AI/ML
-
-<img src="https://img.shields.io/badge/-TensorFlow-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-PyTorch-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-Scikit-Learn-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-NumPy-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-Pandas-05122A?style=for-the-badge&color=00CED1">
-
-### 📱 Mobile
-
-<img src="https://img.shields.io/badge/-Flutter-05122A?style=for-the-badge&color=3CB371"> <img src="https://img.shields.io/badge/-React Native-05122A?style=for-the-badge&color=3CB371">
-
-### 💬 Languages
-
-<img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-C-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-C#-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Go-05122A?style=for-the-badge&color=FFA500">
-
-</div>
+```json
+{
+  "frontend": [
+    "HTML5",
+    "CSS3",
+    "React",
+    "Next.js",
+    "Tailwind"
+  ],
+  "backend": [
+    "Node.js",
+    "MongoDB",
+    "Express",
+    "Django",
+    "MySQL",
+    "Spring",
+    "PostgreSQL"
+  ],
+  "devops": [
+    "Docker",
+    "AWS",
+    "Azure",
+    "GitHub Actions"
+  ],
+  "ai/ml": [
+    "TensorFlow",
+    "PyTorch",
+    "Scikit-Learn",
+    "NumPy",
+    "Pandas"
+  ],
+  "mobile": [
+    "Flutter",
+    "React Native"
+  ],
+  "languages": [
+    "JavaScript",
+    "TypeScript",
+    "Python",
+    "Java",
+    "C",
+    "C#",
+    "PHP",
+    "Go"
+  ]
+}
+```
 
 ## 🌐 Socials
 
-<div align="center">
+```javascript
+const socials = {
+  github: "Minokainduwara",
+  linkedin: "https://www.linkedin.com/in/minoka-wickramasinghe-3b7198194/",
+  medium: "@induwaraminoka",
+  facebook: "minoka.wickramasingha",
+  stackoverflow: "minoka-wickramasinghe",
+}
+```
 
-<a href="https://github.com/Minokainduwara"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a> <a href="https://www.linkedin.com/in/minoka-wickramasinghe-3b7198194/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=df6b9a"></a> <a href="https://medium.com/@induwaraminoka"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white&color=6bdfc7"></a> 
-
+<div>
+<a href="https://github.com/Minokainduwara"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/minoka-wickramasinghe-3b7198194/"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@induwaraminoka"><img src="https://img.shields.io/badge/medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://www.facebook.com/minoka.wickramasingha"><img src="https://img.shields.io/badge/facebook-%23000000.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://stackoverflow.com/users/23593379/minoka-wickramasinghe"><img src="https://img.shields.io/badge/stackoverflow-%23000000.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a> 
 </div>
 
 ## 📫 How to reach me
 
-<div align="center">
-
-**Email:** induwaraminoka@gmail.com
-**Phone:** +94769726890
-
-</div>
+```javascript
+const contact = {
+  email: "induwaraminoka@gmail.com",
+  phone: "+94769726890",
+}
+```
 
 ## 🚀 Open Source Contributions
 
-<div align="center">
+```javascript
+const contributions = [
+  {
+    project: "Rune",
+    link: "https://github.com/lazarus-dev-labs/digital-extinction-tracker",
+    description: "AI/ML Project to Preserve Culture Extinction"
+  }
+];
+```
 
-**[Rune](https://github.com/lazarus-dev-labs/digital-extinction-tracker)** - AI/ML Project to Preserve Culture Extinction
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lazarus-dev-labs/digital-extinction-tracker">Rune</a></td>
+    <td>AI/ML Project to Preserve Culture Extinction</td>
+  </tr>
+</table>
 
-</div>
+```typescript
+// Thanks for visiting my profile!
+console.log("Let's connect and collaborate on exciting projects!");
 
-<div align="center">
-
-<!-- ⚠️ Important: Replace 'Minokainduwara' with your actual GitHub username in the URLs below -->
-<img src="https://komarev.com/ghpvc/?username=Minokainduwara&style=for-the-badge&color=blueviolet" alt="Profile views"/>
-
-<img src="https://img.shields.io/github/followers/Minokainduwara?style=for-the-badge&color=ff69b4" alt="Followers"/>
-
-<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
-
-</div>
+process.exit(0); // Until next time 👋
+```
