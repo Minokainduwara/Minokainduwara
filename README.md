@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Welcome to Minoka Wickramasinghe's Profile 🌟
+# 🌟 Hello there, I am Minoka Wickramasinghe 🌟
 
 ### 🎓 IT Undergraduate | 💡 Full Stack & Game Developer | 🚀 Building the Future
 
@@ -169,7 +169,7 @@ const minoka = {
 
 📧 **Email:** induwaraminoka@gmail.com  
 📱 **Phone:** +94 76 972 6890  
-📍 **Location:** Kurunegala, Sri Lanka
+📍 **Location:** Kegalle, Sri Lanka
 
 </div>
 
