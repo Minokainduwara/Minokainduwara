@@ -2,7 +2,7 @@
 
 # 🌟 Hello there, I am Minoka Wickramasinghe 🌟
 
-### 🎓 IT Undergraduate | 💡 Full Stack & Game Developer | 🚀 Building the Future
+### 🎓 IT Undergraduate | 💡 AI & ML Engineer & Game Developer | 🚀 Building the Future
 
 *Crafting apps, designing games, and learning every day*
 
