@@ -123,17 +123,6 @@ const minoka = {
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=Minokainduwara&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
-
----
 
 ## 🚀 Featured Projects
 
