@@ -19,7 +19,7 @@
 const minoka = {
     location: "Kegalle, Sri Lanka 🇱🇰",
     education: "IT Undergraduate university of Ruhuna",
-    currentFocus: ["E-commerce Development", "Machine Learning", "DevOps"],
+    currentFocus: ["Full Stack Development", "Machine Learning", "DevOps"],
     interests: ["AI/ML", "Cloud Computing", "Game Development", "Full Stack development"],
     funFact: "I am a good chess player! 🌍"
 };
