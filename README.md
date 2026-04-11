@@ -121,7 +121,7 @@ const minoka = {
 
 <img width="49%" src="https://streak-stats.demolab.com?user=Minokainduwara&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Minokainduwara&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Minokainduwara&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=mathematica,asp.net&count_private=true" />
 
 </div>
 
