@@ -8,7 +8,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Minokainduwara&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Minokainduwara)
 [![GitHub followers](https://img.shields.io/github/followers/Minokainduwara?label=Followers&style=social)](https://github.com/Minokainduwara)
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/USERNAME.svg)](https://user-badge.committers.top/sri_lanka/Minokainduwara)
+
 
 
 </div>
