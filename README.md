@@ -117,6 +117,10 @@ const minoka = {
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Minokainduwara&theme=tokyonight" />
 
+<img src="https://github-readme-stats-eight-azure-5q3ds8wi7s.vercel.app/api/top-langs/?username=zaselalk&layout=pie&langs_count=7&hide_border=true&count_private=true&hide=css,html,ejs,scss" alt="Top Languages">
+<img src="https://github-readme-stats-eight-azure-5q3ds8wi7s.vercel.app/api?username=zaselalk&show_icons=true&locale=en&show=prs_merged,prs_merged_percentage&theme=react&count_private=true&hide_border=true" alt="Status">
+
+
 </div>
 
 <div align="center">
