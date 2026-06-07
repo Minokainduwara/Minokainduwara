@@ -115,7 +115,7 @@ const minoka = {
 
 <div align="center">
 
-<img width="49%" src="https://ghstats.dev/api/card?username=Minokainduwara&theme=tokyonight" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Minokainduwara&show_icons=true&theme=tokyonight" />
 <img src="https://github-readme-stats-eight-azure-5q3ds8wi7s.vercel.app/api/top-langs/?username=Minokainduwara&layout=pie&theme=tokyonight&langs_count=8&hide_border=true&count_private=true&hide=css,html,ejs,scss,Mathematica,ASP.NET,CMake" alt="Top Languages">
 
 </div>
